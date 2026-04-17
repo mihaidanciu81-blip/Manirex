@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "products": "Products",
+    "industries": "Industries",
+    "capabilities": "Capabilities",
+    "resources": "Resources",
+    "about": "About",
+    "contact": "Contact",
+    "requestQuote": "Request Quote"
+  },
+  "home": {
+    "heroTitle": "Industrial Woven Packaging. Engineered for Scale.",
+    "heroSubTitle": "PP woven bags, FIBCs, and custom packaging solutions for producers across Europe and beyond.",
+    "ctaQuote": "Request a Quote",
+    "ctaCatalog": "Download Catalog"
+  },
+  "footer": {
+    "company": "Company",
+    "legal": "Legal",
+    "newsletter": "Join our newsletter",
+    "rights": "All rights reserved."
+  }
+}

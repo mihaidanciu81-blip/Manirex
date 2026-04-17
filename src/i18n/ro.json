@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "products": "Produse",
+    "industries": "Industrii",
+    "capabilities": "Capabilități",
+    "resources": "Resurse",
+    "about": "Despre",
+    "contact": "Contact",
+    "requestQuote": "Cere Ofertă"
+  },
+  "home": {
+    "heroTitle": "Ambalaje Industriale Țestute. Proiectate pentru Scară.",
+    "heroSubTitle": "Saci țesuți din PP, Big Bags (FIBC) și soluții personalizate de ambalare pentru producători din Europa și nu numai.",
+    "ctaQuote": "Solicită Ofertă",
+    "ctaCatalog": "Descarcă Catalog"
+  },
+  "footer": {
+    "company": "Companie",
+    "legal": "Legal",
+    "newsletter": "Abonează-te la newsletter",
+    "rights": "Toate drepturile rezervate."
+  }
+}
